@@ -1,8 +1,10 @@
-# React + Vite
+# Template R3F - Three.js - React - Tailwind - Vite  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚨 Le repo utilise Biome, il est donc conseillé d'installer l'extension sur VsCode 
 
-Currently, two official plugins are available:
+Le repo permet de créer rapidement des projets utilisants R3F (drei), l'importation de model blender avec Draco ainsi que l'utilisation des shaders.  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Commandes 
+npm i  
+npm run dev  
+npm run build   
